@@ -1,4 +1,3 @@
-// this file is generated
 [
 	{
 		"itemId": "b63c6440-dfc2-4da7-acdb-3c385080b2e4",
@@ -6,16 +5,8 @@
 		"craftTime": 8,
 		"ingredientList": [
 			{
-				"quantity": 5,
-				"itemId": "1f7ac0bb-ad45-4246-9817-59bdf7f7ab39"
-			},
-			{
-				"quantity": 5,
-				"itemId": "f152e4df-bc40-44fb-8d20-3b3ff70cdfe3"
-			},
-			{
-				"quantity": 5,
-				"itemId": "5530e6a0-4748-4926-b134-50ca9ecb9dcf"
+				"quantity": 225,
+				"itemId": "cb751c82-9bc3-48bd-aa03-4c2648d81640"
 			}
 		]
 	},
@@ -25,16 +16,8 @@
 		"craftTime": 8,
 		"ingredientList": [
 			{
-				"quantity": 60,
-				"itemId": "8aedf6c2-94e1-4506-89d4-a0227c552f1e"
-			},
-			{
-				"quantity": 5,
-				"itemId": "f152e4df-bc40-44fb-8d20-3b3ff70cdfe3"
-			},
-			{
-				"quantity": 5,
-				"itemId": "5530e6a0-4748-4926-b134-50ca9ecb9dcf"
+				"quantity": 400,
+				"itemId": "cb751c82-9bc3-48bd-aa03-4c2648d81640"
 			}
 		]
 	},
@@ -44,8 +27,8 @@
 		"craftTime": 8,
 		"ingredientList": [
 			{
-				"quantity": 30,
-				"itemId": "8aedf6c2-94e1-4506-89d4-a0227c552f1e"
+				"quantity": 200,
+				"itemId": "cb751c82-9bc3-48bd-aa03-4c2648d81640"
 			}
 		]
 	},
@@ -55,16 +38,8 @@
 		"craftTime": 8,
 		"ingredientList": [
 			{
-				"quantity": 50,
-				"itemId": "1016cafc-9f6b-40c9-8713-9019d399783f"
-			},
-			{
-				"quantity": 10,
-				"itemId": "f152e4df-bc40-44fb-8d20-3b3ff70cdfe3"
-			},
-			{
-				"quantity": 10,
-				"itemId": "5530e6a0-4748-4926-b134-50ca9ecb9dcf"
+				"quantity": 500,
+				"itemId": "cb751c82-9bc3-48bd-aa03-4c2648d81640"
 			}
 		]
 	},
@@ -74,16 +49,8 @@
 		"craftTime": 8,
 		"ingredientList": [
 			{
-				"quantity": 50,
-				"itemId": "c0dfdea5-a39d-433a-b94a-299345a5df46"
-			},
-			{
-				"quantity": 10,
-				"itemId": "f152e4df-bc40-44fb-8d20-3b3ff70cdfe3"
-			},
-			{
-				"quantity": 10,
-				"itemId": "5530e6a0-4748-4926-b134-50ca9ecb9dcf"
+				"quantity": 500,
+				"itemId": "cb751c82-9bc3-48bd-aa03-4c2648d81640"
 			}
 		]
 	}
